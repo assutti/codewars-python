@@ -5,3 +5,4 @@ A collection of Python exercises completed on Codewars to improve my problem-sol
 ## 8 kyu
 
 1. Generate range of integers
+2. Switch it Up!
