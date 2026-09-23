@@ -8,3 +8,4 @@ A collection of Python exercises completed on Codewars to improve my problem-sol
 2. Switch it Up!
 3. Well of Ideas - Easy Version
 4. Sum of positive
+5. Reversed Strings
