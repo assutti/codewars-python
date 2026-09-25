@@ -13,3 +13,4 @@ A collection of Python exercises completed on Codewars to improve my problem-sol
 7. Convert a Number to a String!
 8. Remove First and Last Character
 9. Square(n) Sum
+10. Opposite number
