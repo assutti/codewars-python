@@ -10,3 +10,4 @@ A collection of Python exercises completed on Codewars to improve my problem-sol
 4. Sum of positive
 5. Reversed Strings
 6. Even or Odd
+7. Convert a Number to a String!
