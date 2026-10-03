@@ -14,3 +14,4 @@ A collection of Python exercises completed on Codewars to improve my problem-sol
 8. Remove First and Last Character
 9. Square(n) Sum
 10. Opposite number
+11. Convert boolean values to strings 'Yes' or 'No'.
