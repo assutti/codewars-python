@@ -15,3 +15,20 @@ A collection of Python exercises completed on Codewars to improve my problem-sol
 9. Square(n) Sum
 10. Opposite number
 11. Convert boolean values to strings 'Yes' or 'No'.
+12. Multiply
+
+13. Returning Strings
+
+14. Basic Mathematical Operations
+
+15. String repeat
+
+16. Convert a String to a Number!
+
+17. Century From Year
+
+18. Find the smallest integer in the array
+
+19. Counting sheep...
+
+20. Remove String Spaces
