@@ -32,3 +32,22 @@ A collection of Python exercises completed on Codewars to improve my problem-sol
 19. Counting sheep...
 
 20. Remove String Spaces
+21. Grasshopper - Summation
+
+22. Lost Without a Map
+
+23. Count of positives / sum of negatives
+
+24. Calculate average
+
+25. You only need one
+
+26. Is it even?
+
+27. A Needle in the Haystack
+
+28. Abbreviate a Two Word Name
+
+29. Is it a palindrome?
+
+30. Remove duplicates from list
